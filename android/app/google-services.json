@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741388296515",
+    "firebase_url": "https://dapp-ac62a.firebaseio.com",
+    "project_id": "dapp-ac62a",
+    "storage_bucket": "dapp-ac62a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741388296515:android:c6ef060dff908c27f00ff6",
+        "android_client_info": {
+          "package_name": "com.example.flask_hit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741388296515-47qqdu6dia98kt5fq54imou5cflgo3qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xXOe1PTaCvqeQPhWeXv3JjYtIqkUoJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741388296515-47qqdu6dia98kt5fq54imou5cflgo3qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
